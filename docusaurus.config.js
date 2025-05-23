@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://tianji-server.github.io/',
+  url: 'https://doc.xmccln.top/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Tianji-Server', // Usually your GitHub org/user name.
-  projectName: 'Docusaurus-Wiki', // Usually your repo name.
+  organizationName: '创世元域服务器', // Usually your GitHub org/user name.
+  projectName: '服务器游玩指南', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -101,27 +101,9 @@ const config = {
               },
             ],
           },
-          {
-            title: '交流',
-            items: [
-              {
-                label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=QKurhX6E',
-              },
-            ],
-          },
-          {
-            title: '插件发布',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Neige7/Wiki-Template',
-              },
-            ],
-          },
         ],
         // 底部版权信息
-        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Neige, All Rights Reserved. | 滇ICP备2025051320号-1`,
       },
       // 深浅主题
       prism: {

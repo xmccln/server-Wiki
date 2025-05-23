@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus-Wiki',
-  tagline: 'Docusaurus 插件文档模板',
+  title: '服务器游玩指南',
+  tagline: '适用于大多服务器的游玩指南',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
